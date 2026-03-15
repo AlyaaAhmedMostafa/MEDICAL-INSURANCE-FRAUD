@@ -258,10 +258,10 @@ Based on the full analysis, the following actions are recommended in priority or
 
 ---
 
-<div align="center">
+
 
 **Analysis Period:** December 31, 2020 – December 31, 2024  
 **Portfolio Size:** 22,000 Claims · 500 Providers · $144.3M Total Paid  
 **Confirmed Fraud Loss:** $15,699,531 · **Fraud Rate:** 10.9%
 
-</div>
+
