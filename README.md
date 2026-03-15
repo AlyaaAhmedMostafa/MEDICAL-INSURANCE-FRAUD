@@ -264,6 +264,4 @@ Based on the full analysis, the following actions are recommended in priority or
 **Portfolio Size:** 22,000 Claims · 500 Providers · $144.3M Total Paid  
 **Confirmed Fraud Loss:** $15,699,531 · **Fraud Rate:** 10.9%
 
-*This report was produced using SQL-based forensic audit methodology across a structured claims database.*
-
 </div>
