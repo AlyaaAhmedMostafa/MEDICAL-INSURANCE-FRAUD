@@ -33,7 +33,7 @@ Before any fraud analysis can be trusted, the underlying data must be structural
 
 **Unit Mismatch Anomaly:** A cross-check of `Units_Billed` vs. `Units_Rendered` revealed **1,815 mismatched cases**. The system flag `Flag_UnitMismatch` captured every single instance (`Missed_By_Flag = 0`), confirming the detection logic is operating at **100% recall** for this anomaly type.
 
-> ✅ **Conclusion:** The dataset is structurally clean, fully populated, and referentially intact. All downstream findings can be trusted for legal, clinical, and financial audit purposes.
+> **Conclusion:** The dataset is structurally clean, fully populated, and referentially intact. All downstream findings can be trusted for legal, clinical, and financial audit purposes.
 
 ---
 
